@@ -7,13 +7,18 @@
 - [Controller Naming Pattern - symfony.com](http://symfony.com/doc/3.0/routing.html#controller-naming-pattern)
 
 ## The base Controller class
+- [The base Controller class - symfony.com](https://symfony.com/doc/current/controller.html#the-base-controller-classes-services)
 
 ## The request
 - [The Request and Response Object - symfony.com](http://symfony.com/doc/3.0/controller.html#the-request-and-response-object)
+- [The HttpFoundation Component Request - symfony.com](https://symfony.com/doc/current/components/http_foundation.html#request)
 
 ## The response
 
+- [The HttpFoundation Component Response - symfony.com](https://symfony.com/doc/current/components/http_foundation.html#response)
+
 ## The cookies
+- [Setting Cookies - symfony.com](https://symfony.com/doc/current/components/http_foundation.html#setting-cookies)
 
 ## The session
 - [Managing the Session - symfony.com](http://symfony.com/doc/3.0/controller.html#managing-the-session)
